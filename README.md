@@ -71,3 +71,26 @@ END;
 
 
 ```
+
+### count the movies per genre
+
+|	GENRE	|	COUNT	|
+|	------------	|	------------	|
+|	Adventure	|	297	|
+|	Animation	|	175	|
+|	Children	|	159	|
+|	Comedy	|	294	|
+|	Drama	|	302	|
+|	Action	|	317	|
+|	Crime	|	158	|
+|	Horror	|	110	|
+|	Mystery	|	107	|
+|	Fantasy	|	190	|
+|	Sci-Fi	|	102	|
+|	Documentary	|	21	|
+|	Musical	|	63	|
+|	Romance	|	94	|
+|	Thriller	|	45	|
+|	Film-Noir	|	30	|
+|	War	|	10	|
+|	Western	|	2	|
